@@ -17,11 +17,11 @@ a{
 	top:20px;
 	left:-150px;
 }
-.skills,.project{
+#skills,#project{
 	margin:20px;
 	padding:10px;
 }
-.skills>ul>p,.project>ul>p{
+#skills>ul>p,#project>ul>p{
 	color:rgba(0,255,0,0.9);
 	font-weight:700;
 }
